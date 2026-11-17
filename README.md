@@ -1,2 +1,2 @@
 # Revise-delta
-Basic of Github
+Basic of Github.
